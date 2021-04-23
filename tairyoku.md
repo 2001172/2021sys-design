@@ -1,6 +1,6 @@
 ```uml
 @startuml
-startu
+start
 :tairyoku = 10;
 if(tairyoku <= 20)then
 :「宿屋に泊まる」と表示;
